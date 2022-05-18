@@ -1,0 +1,27 @@
+
+<html>
+<head>
+<title>html mp
+</title>
+</head>
+<body bgcolor="pink">
+<pre><h1 style="font-size:100px;">
+
+
+    Thinking of buying 
+       a smart TV?</h1></pre>
+<p align="center"><font size="200px">
+
+<a href="TV pg2.html">Shop Now</a>
+<style> 
+ 	a:link{color:green;}  	
+	a:visited{color: blue;}  		
+	a:hover{color: red;} 
+ 	a:active{color:yellow;} 
+</style>
+
+
+              <img src="https://5.imimg.com/data5/QR/MH/JN/SELLER-47616313/50-inch-full-hd-4k-smart-led-tv-500x500.jpeg" align="right" width="800" height="400">
+
+</body>
+</html>
